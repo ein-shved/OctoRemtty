@@ -1,0 +1,5 @@
+#!/usr/bin/with-contenv sh
+
+cd /opt/octoprint/remtty
+
+exec python OctoRemtty.py
