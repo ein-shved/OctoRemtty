@@ -34,6 +34,12 @@ converter.
  - Add ``/dev/ttyEth*`` to Additional serial ports in OctoPrint configuration
  - Done
 
+### Mounting photos
+
+![Uart inside case](images/EthUart-1.jpg)
+
+![Uart outside case](images/EthUart-2.jpg)
+
 ## Web camera authentication workaround
 
 Most of OctoPrint setups is based on RaspberryPi (OctoPi) which has simple
